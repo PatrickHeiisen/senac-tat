@@ -1,6 +1,6 @@
 # senac-tat
 Repositório de conteúdo das aulas de curso técnico de informática
 
-![senac](Vhttps://github.com/PatrickHeiisen/senac-tat/blob/main/UC1/assets/senac1.png)
+![senac](https://github.com/PatrickHeiisen/senac-tat/blob/main/Uc1/Assets/senac.png)
 
 ## Patrick G Correia
