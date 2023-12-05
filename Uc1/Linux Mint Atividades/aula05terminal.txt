@@ -1,7 +1,7 @@
 senac@senac-VirtualBox:~$ history
     1  sudo apt update
     2  sudo apt-get update
-    3  sudo rm -Rf/opt/tor-browserr
+    3  sudo rm -Rf/opt/tor-browser
     4  sudo init 0
     5  id
     6  lsd
